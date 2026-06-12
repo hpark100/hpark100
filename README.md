@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hyunsu Park
 
-<!--
-**hpark100/hpark100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance graduate at Université Paris 8 building a portfolio in corporate finance, valuation, LBO modeling, and financial data analytics.
 
-Here are some ideas to get you started:
+## Portfolio Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Valuation
+- LBO modeling
+- Financial statement analysis
+- Comparable companies analysis
+- Power BI financial dashboards
+- European banking and market analysis
+
+## Featured Portfolio
+
+- [Finance, Valuation and Data Analytics Portfolio](https://github.com/hpark100/finance-valuation-portfolio)
+
+## Tools
+
+Excel, Power BI, Power Query, DAX, Financial Modeling, Valuation, Data Visualization
+
+## Contact
+
+LinkedIn:  https://www.linkedin.com/in/hpark-p8
+Email:  parkhyunsu20@gmail.com
